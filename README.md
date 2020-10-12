@@ -2,7 +2,7 @@
 This is a repo for the weakly assigments of my electrical and computer engineering school's Data Analysis class . <br>
 ## Contents 
 ### 1. Chapter 1 - Introduction <br>
-  - (no assigments)<br>
+  - (no assignments)<br>
   ---
 ### 2. Chapter 2 - Probabilities and Random Variables <br>
   **- ex_2_1 : [Experimental Proof of Relative frequency Probability Definition.](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%202/ex_2_1.m)** <br>
