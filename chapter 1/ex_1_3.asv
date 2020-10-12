@@ -1,0 +1,19 @@
+%% Data analysis - Exercise 1.3 - Proof: Var[X+Y] != Var[X] + Var[X+Y] when X and Y are not independent 
+% The above proof will be achieved by using n multivariate normal random
+%  numbers from X and Y.
+
+clc;
+clear all;
+meanX=0;
+meanY=0;
+corr
+%number of random numbers
+n= 1000;
+
+%mean of X and Y
+mu = [0 0];
+Sigma = [1 1.5; 1.5 3];
+R = mvnrnd(mu,Sigma,n);
+
+X= R(:,1);
+Y= R(:,2); 
