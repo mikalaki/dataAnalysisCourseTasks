@@ -1,4 +1,4 @@
-%% Data analysis - Exercise 1.2 - Exponential distribution random number generaton
+%% Data analysis - Exercise 2.2 - Exponential distribution random number generaton
 %  In this exercise we are called to generate random numbers from
 %  exponential distribution by using the uniform distribution at [0,1].
 

@@ -1,4 +1,4 @@
-%% Data analysis - Exercise 1.1 - Probability Definition Proof
+%% Data analysis - Exercise 2.1 - Probability Definition Proof
 %  In this exercise we are called to implement an experiment where by
 %  simulating a coin flip multiple times, and by rising the number of flips
 %  we get an experimental proof of probability  definition, which is  
