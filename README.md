@@ -11,6 +11,7 @@ This is a repo for the weakly assigments of my electrical and computer engineeri
   - **ex_2_4 : [Investigation if E[1/X] = 1/E[X] holds.](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%202/ex_2_4.m)** 
   - **ex_2_5 : [A Normal Distribution Problem.](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%202/ex_2_5.m)**   
   - **ex_2_6 : [Programmatically Proof of Central Limit Theorem (CLT).](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%202/ex_2_6.m)**   
+  ---
 ### 3. Chapter 3 - Statistics <br>
   - **ex_3_1 : [Poisson Distribution - maximum likelihood estimator](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_1.m)** <br>
   - **ex_3_2 : [Exponential Distribution - maximum likelihood estimator](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_2.m)** <br>
