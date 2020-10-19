@@ -1,5 +1,5 @@
 # Tasks on Data Analysis university course
-This is a repo for the weakly assigments of my electrical and computer engineering school's Data Analysis class . <br>
+This is a repo for the weakly assignments of my electrical and computer engineering school's Data Analysis class . <br>
 ## Contents 
 ### 1. Chapter 1 - Introduction <br>
   - (no assignments)<br>
