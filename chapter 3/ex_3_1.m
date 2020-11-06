@@ -35,7 +35,7 @@ legend("sample mean value", "lambda (λ)");
 % number of samples:
 M = 1000;
 % sample size:
-n = 10000;
+n = 20000;
 
 lambda = 20;
 meanOfmeans = poissonSamplesMean(M,n,lambda);
