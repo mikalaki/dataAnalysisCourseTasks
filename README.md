@@ -16,6 +16,6 @@ This is a repo for the weakly assignments of my electrical and computer engineer
   - **ex_3_1 : [Poisson Distribution - maximum likelihood estimator](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_1.m)** <br>
   - **ex_3_2 : [Exponential Distribution - maximum likelihood estimator](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_2.m)** <br>
   - **Parametrical Analysis :**
-  - **ex_3_3 : [Confidence Interval of Mean value (exponential distribution)](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_3.m)** <br>
-  - **ex_3_4 : [Confidence Interval and Null Hypothesis test on StD,Var and mean value, Goodness-of-Fit test](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_4.m)** <br>
-  - **ex_3_5 : [Confidence Interval and Null Hypothesis test on StD and mean value, Goodness-of-Fit test & Application](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_5.m)** <br>
+  - -**ex_3_3 : [Confidence Interval of Mean value (exponential distribution)](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_3.m)** <br>
+  - -**ex_3_4 : [Confidence Interval and Null Hypothesis test on StD,Var and mean value, Goodness-of-Fit test](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_4.m)** <br>
+  - -**ex_3_5 : [Confidence Interval and Null Hypothesis test on StD and mean value, Goodness-of-Fit test & Application](https://github.com/mikalaki/dataAnalysisCourseTasks/blob/main/chapter%203/ex_3_5.m)** <br>
